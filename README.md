@@ -313,13 +313,17 @@ VarianceThreshold -> SelectKBest -> SelectFromModel -> RFE
 
 Содержит финальный список выбранных признаков после preprocessing и feature selection.
 
+### `strict - версия файлов`
+
+Содержат результаты по предсказанию без использования в датасете песен уже вошедших в топ 50 в первые 7 дней.
+
 ### `feature_importance.csv`
 
 Содержит коэффициенты или tree-based importances финальной модели, если выбранная модель это поддерживает.
 Подбор гиперпараметров можно добавить на следующем этапе через `GridSearchCV`, но для временных данных нужно использовать time-series folds, а не random KFold.
 
----
 
+---
 ## 6. Validation
 
 Для каждой модели считаются метрики на нескольких временных CV-folds. Лучшая модель выбирается по среднему значению выбранной метрики, например `f1_mean` или `roc_auc_mean`.
@@ -342,12 +346,16 @@ VarianceThreshold -> SelectKBest -> SelectFromModel -> RFE
 
 ```text
 reports/model_comparison_fair.csv
+
+reports_strict/model_comparison_fair.csv
 ```
 Сравнение моделей можно посмотреть в таблицах:
 ```text
 reports\model_B_chart_plus_audio_matched\metrics_validation.csv
 
-reports\model_A_chart_only_matched\metrics_validation.csv
+reports_strict\model_B_chart_only_matched\metrics_validation.csv
+
+или с буквой A
 ```
 
 Для варианта A наилучшей моделью стала - gradient_boosting, для B - random_forest.
