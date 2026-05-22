@@ -1,0 +1,6 @@
+column,correlation_with_target,note
+best_future_rank,-0.4478016686805386,sanity check only; excluded from model features
+already_top50_obs,0.5021747371790753,sanity check only; excluded from model features
+audio_popularity,0.11008139950450022,sanity check only; excluded from model features
+has_audio_features,0.1901872230955655,sanity check only; excluded from model features
+audio_features_non_missing,0.1901872230955655,sanity check only; excluded from model features

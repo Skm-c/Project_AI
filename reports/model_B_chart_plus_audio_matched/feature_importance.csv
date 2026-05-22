@@ -1,0 +1,13 @@
+feature,importance
+num__last_rank_obs,0.31703031480351745
+num__total_streams_7d,0.19738405392579184
+num__median_rank_7d,0.14986353998257723
+num__streams_growth_pct_7d,0.1444865015069899
+num__mean_streams_7d,0.09817942828199969
+num__log_first_streams,0.06972827370072107
+cat__audio_track_genre_latino,0.012968976168134794
+cat__audio_track_genre_k-pop,0.007634592426036318
+cat__audio_track_genre_emo,0.0024405522015136577
+cat__audio_track_genre_country,0.00014259196993250813
+cat__audio_track_genre_folk,0.0001411750327853881
+cat__audio_track_genre_rock-n-roll,0.0
