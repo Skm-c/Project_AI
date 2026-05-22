@@ -1,0 +1,9 @@
+[
+  "num__last_rank_obs",
+  "num__median_rank_7d",
+  "num__total_streams_7d",
+  "num__mean_streams_7d",
+  "num__std_streams_7d",
+  "num__streams_growth_pct_7d",
+  "num__log_first_streams"
+]

@@ -1,0 +1,2 @@
+accuracy,precision,recall,f1,roc_auc,average_precision,log_loss,brier_score,tn,fp,fn,tp,model,split,feature_set,feature_selection,cv_folds,model_selection_strategy,k_best,rfe_fraction,require_audio_features
+0.9265536723163842,0.65,0.6842105263157895,0.6666666666666666,0.9017321785476349,0.6710675769683278,0.28012371484110665,0.07826242755800852,151,7,6,13,random_forest,test,chart_only,hybrid,5,time_series_cv_5_folds,50,0.5,True

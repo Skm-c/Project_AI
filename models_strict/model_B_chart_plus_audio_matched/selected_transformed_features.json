@@ -1,0 +1,14 @@
+[
+  "num__last_rank_obs",
+  "num__last_streams_obs",
+  "num__best_rank_7d",
+  "num__median_rank_7d",
+  "num__mean_streams_7d",
+  "cat__audio_track_genre_alternative",
+  "cat__audio_track_genre_country",
+  "cat__audio_track_genre_emo",
+  "cat__audio_track_genre_k-pop",
+  "cat__audio_track_genre_latino",
+  "cat__audio_track_genre_rock-n-roll",
+  "cat__audio_track_genre_rockabilly"
+]

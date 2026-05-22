@@ -1,0 +1,178 @@
+track_name,artist_name,region,first_date,y_true,y_pred,hit_probability
+Pepas,Farruko,Global,2021-07-12,1,1,0.8634208903890918
+Beggin',Måneskin,Global,2021-06-01,1,1,0.849421298508113
+Meet Me At Our Spot,"THE ANXIETY, WILLOW, Tyler Cole",Global,2021-08-31,1,1,0.7884158485110122
+Tiroteo - Remix,"Marc Seguí, Rauw Alejandro, Pol Granch",Global,2021-06-29,1,1,0.7421183685364852
+"Raataan Lambiyan (From ""Shershaah"")","Tanishk Bagchi, Jubin Nautiyal, Asees Kaur",Global,2021-08-16,0,1,0.7321174635488376
+Like I Can,Sam Smith,Global,2021-08-20,1,1,0.7177611445552717
+I Love You So,The Walters,Global,2021-10-11,0,1,0.7096086631670625
+Love Tonight - Edit,Shouse,Global,2021-07-03,1,1,0.683548420276844
+Bored,Billie Eilish,Global,2021-09-20,1,1,0.6828307114758291
+2055,Sleepy Hallow,Global,2021-07-17,1,1,0.6807493735447065
+Reckless,Madison Beer,Global,2021-06-27,0,1,0.6431856790229515
+Life Goes On,Oliver Tree,Global,2021-09-02,1,1,0.5977238444126638
+When We Were Young,Adele,Global,2021-10-05,1,1,0.5960907742212054
+Ley Seca,"Jhay Cortez, Anuel AA",Global,2021-09-03,1,1,0.5633207493762816
+Poblado - Remix,"J Balvin, KAROL G, Nicky Jam, Crissin, Totoy El Frio, Natan & Shander",Global,2021-06-18,1,1,0.5555796136969552
+No Lie,"Sean Paul, Dua Lipa",Global,2021-12-08,0,1,0.5551926736622156
+Lost in the Fire (feat. The Weeknd),Gesaffelstein,Global,2021-11-03,0,1,0.5500301938081524
+Qué Más Pues?,"J Balvin, Maria Becerra",Global,2021-05-28,1,1,0.5163483309157595
+Notion,The Rare Occasions,Global,2021-12-05,0,1,0.5097524617507231
+Classic,MKTO,Global,2021-10-03,0,1,0.500430586353775
+Tacones Rojos,Sebastian Yatra,Global,2021-11-17,0,0,0.4997657850460492
+Fancy Like,Walker Hayes,Global,2021-07-24,0,0,0.49448049123515253
+Notion,The Rare Occasions,Global,2021-11-15,0,0,0.4933360544422617
+Ramenez la coupe à la maison,Vegedream,Global,2021-06-16,0,0,0.48471090850796117
+OUT OUT (feat. Charli XCX & Saweetie),"Joel Corry, Jax Jones",Global,2021-08-13,0,0,0.46962692007173473
+The Motto,"Tiësto, Ava Max",Global,2021-11-05,0,0,0.45963917758891
+The Feels,TWICE,Global,2021-10-02,0,0,0.45362662131986714
+"Ranjha (From ""Shershaah"")","Jasleen Royal, B Praak",Global,2021-08-17,0,0,0.4445939456476146
+ELEVEN,IVE,Global,2021-12-05,0,0,0.4050428274992688
+Super Gremlin,Kodak Black,Global,2021-12-06,0,0,0.3805422911415805
+"Spooky, Scary Skeletons - Undead Tombstone Remix",Andrew Gold,Global,2021-10-31,0,0,0.37197706420634896
+LOCO,ITZY,Global,2021-09-25,0,0,0.36715457414031993
+Leave Before You Love Me (with Jonas Brothers),Marshmello,Global,2021-05-28,0,0,0.35732078904126385
+Nostálgico,"Rvssian, Rauw Alejandro, Chris Brown",Global,2021-09-09,0,0,0.3465729803068042
+Butter,BTS,Global,2021-12-16,0,0,0.34382608959235395
+Don't Be Shy,"Tiësto, KAROL G",Global,2021-08-13,1,0,0.33782548448145033
+Dynamite,BTS,Global,2021-12-13,0,0,0.336769939194816
+El Incomprendido,"Farruko, Victor Cardenas, Dj Adoni",Global,2021-10-01,0,0,0.333564211419328
+double take,dhruv,Global,2021-07-05,0,0,0.3320309286908477
+Run,OneRepublic,Global,2021-08-27,0,0,0.3255560952066982
+abcdefu (angrier),GAYLE,Global,2021-11-24,0,0,0.31978329541714046
+Desesperados,"Rauw Alejandro, Chencho Corleone",Global,2021-12-13,0,0,0.318683085214095
+I GUESS I'M IN LOVE,Clinton Kane,Global,2021-08-20,0,0,0.3174630186372715
+SEJODIOTO,KAROL G,Global,2021-09-24,0,0,0.317272457704639
+Merry Christmas,"Ed Sheeran, Elton John",Global,2021-12-03,1,0,0.31598916595195187
+The Feels,TWICE,Global,2021-11-13,0,0,0.301596260067548
+Heartbreak Anthem (with David Guetta & Little Mix),Galantis,Global,2021-05-21,0,0,0.3012035607790003
+Send My Love (To Your New Lover),Adele,Global,2021-10-14,0,0,0.2958725273703388
+Astronaut In The Ocean,Masked Wolf,Global,2021-09-11,0,0,0.2955141993904145
+Gangsta's Paradise,"Coolio, L.V.",Global,2021-11-17,0,0,0.29187381421228353
+Infinity,Jaymes Young,Global,2021-10-11,0,0,0.284427287874262
+Someone Like You,Adele,Global,2021-10-04,1,0,0.26975825291718003
+Where Are You Now,"Lost Frequencies, Calum Scott",Global,2021-08-26,1,0,0.2668457457583822
+Smells Like Teen Spirit - Remastered 2021,Nirvana,Global,2021-11-13,0,0,0.25691261457221126
+Acapulco,Jason Derulo,Global,2021-10-08,0,0,0.252179713124142
+Loco,"Justin Quiles, Chimbala, Zion & Lennox",Global,2021-08-20,0,0,0.2519336528424342
+Tamed-Dashed,ENHYPEN,Global,2021-10-12,0,0,0.2496395551349192
+Poblado - Remix,"J Balvin, KAROL G, Nicky Jam, Crissin, Totoy El Frio, Natan & Shander",Global,2021-09-10,0,0,0.2492940110698522
+Jefe,Ninho,Global,2021-12-03,0,0,0.2490504264044886
+Happier Than Ever - Edit,Billie Eilish,Global,2021-09-09,0,0,0.24489938821498522
+Alien Blues,Vundabar,Global,2021-12-05,0,0,0.24010252924097553
+By Your Side (feat. Tom Grennan),Calvin Harris,Global,2021-06-04,0,0,0.23875677504060566
+Love Me Now (feat. Zoe Wees),Kygo,Global,2021-08-13,0,0,0.23676640278415884
+MIDDLE OF THE NIGHT,Elley Duhé,Global,2021-12-06,0,0,0.23585276177272546
+She Knows (feat. Amber Coffman & Cults),J. Cole,Global,2021-09-08,0,0,0.2358218534048296
+Teenagers,My Chemical Romance,Global,2021-10-04,0,0,0.23512492434969487
+ONLY,LeeHi,Global,2021-09-28,0,0,0.22919794864071766
+When You Danced With Me,ABBA,Global,2021-11-05,0,0,0.20722084424371048
+double take,dhruv,Global,2021-10-25,0,0,0.20519058436323717
+Never Going Home,Kungs,Global,2021-07-24,0,0,0.2025768043289265
+The Feels,TWICE,Global,2021-10-01,0,0,0.20021344589959178
+Alcohol-Free,TWICE,Global,2021-06-10,0,0,0.19847860531015563
+Good Ones,Charli XCX,Global,2021-09-03,0,0,0.1982000726136464
+Make You Feel My Love,Adele,Global,2021-10-15,0,0,0.1951410629174182
+Ball If I Want To,DaBaby,Global,2021-06-18,0,0,0.19427130334717782
+Skate,"Bruno Mars, Anderson .Paak, Silk Sonic",Global,2021-11-12,0,0,0.1938918450209642
+Sobrio,Maluma,Global,2021-07-09,1,0,0.19132537528918364
+@ my worst,blackbear,Global,2021-08-06,0,0,0.19012801802243634
+Love Tonight - David Guetta Remix Edit,Shouse,Global,2021-08-07,0,0,0.18780625399029569
+Dandelions,Ruth B.,Global,2021-08-03,0,0,0.18674290701690013
+Our Song,"Anne-Marie, Niall Horan",Global,2021-07-23,0,0,0.18646543185702738
+Follow You,Imagine Dragons,Global,2021-09-03,0,0,0.18282745680242163
+Therefore I Am,Billie Eilish,Global,2021-07-30,0,0,0.17953245831520304
+Rolling in the Deep,Adele,Global,2021-08-29,0,0,0.1780643945222355
+SCIENTIST,TWICE,Global,2021-11-15,0,0,0.17395306992180262
+Visiting Hours,Ed Sheeran,Global,2021-10-29,0,0,0.17362874628086342
+Tell It To My Heart,"MEDUZA, Hozier",Global,2021-10-29,0,0,0.1685797751687778
+we fell in love in october,girl in red,Global,2021-10-01,0,0,0.16765841629239092
+Savage,aespa,Global,2021-10-05,0,0,0.1653303881825759
+A-O-K,Tai Verdes,Global,2021-08-09,0,0,0.1458179012181404
+All I Ask,Adele,Global,2021-10-15,0,0,0.14515198148407496
+Fancy Like,Walker Hayes,Global,2021-09-10,0,0,0.1415807743877463
+Todo De Ti,Rauw Alejandro,Global,2021-12-20,0,0,0.13973700549282603
+Astronaut In The Ocean,Masked Wolf,Global,2021-09-10,0,0,0.13949189787312585
+Undeniable (feat. X Ambassadors),Kygo,Global,2021-10-15,0,0,0.13839788910136772
+Cúrame,Rauw Alejandro,Global,2021-12-20,0,0,0.1381957300337439
+Essence (feat. Justin Bieber & Tems),WizKid,Global,2021-08-16,0,0,0.13746761187426534
+Hello,Adele,Global,2021-10-15,0,0,0.13654753415858867
+Chasing Pavements,Adele,Global,2021-10-15,0,0,0.13613943074403095
+SCIENTIST,TWICE,Global,2021-11-12,0,0,0.13385238285085752
+Locked out of Heaven,Bruno Mars,Global,2021-11-10,0,0,0.13336261613812067
+Loco,"Justin Quiles, Chimbala, Zion & Lennox",Global,2021-06-07,0,0,0.13275915656660878
+What Christmas Means To Me,Stevie Wonder,Global,2021-12-18,0,0,0.13092575962599354
+KESI - Remix,"Camilo, Shawn Mendes",Global,2021-07-15,0,0,0.12962333249727032
+tears in the club (feat. the weeknd),FKA twigs,Global,2021-12-17,0,0,0.1291727919345284
+"Family (feat. Bebe Rexha, Ty Dolla $ign & A Boogie Wit da Hoodie)",David Guetta,Global,2021-10-29,0,0,0.12912530326519583
+Cúrame,Rauw Alejandro,Global,2021-07-26,1,0,0.12871532022784288
+Kiss My (Uh Oh),"Anne-Marie, Little Mix",Global,2021-07-23,0,0,0.12743537708433833
+In Da Getto,"J Balvin, Skrillex",Global,2021-07-02,0,0,0.1256020658220334
+Here's Your Perfect,Jamie Miller,Global,2021-07-04,0,0,0.12442773399217782
+Memory,"Kane Brown, blackbear",Global,2021-07-09,0,0,0.11850825334009206
+SUVs (Black on Black),"Jack Harlow, Pooh Shiesty",Global,2021-08-06,0,0,0.11758488115410375
+Skyfall,Adele,Global,2021-10-15,0,0,0.11636514217442667
+Shouldn't Matter but It Does,John Mayer,Global,2021-07-16,0,0,0.1156700936654411
+Wrecked,Imagine Dragons,Global,2021-09-03,0,0,0.11477691556837802
+I Can Be That Woman,ABBA,Global,2021-11-05,0,0,0.10999167368630335
+As the World Caves In,Matt Maltese,Global,2021-06-06,0,0,0.10995175710495406
+Our Song,"Anne-Marie, Niall Horan",Global,2021-05-21,0,0,0.10930580797380848
+Just A Notion,ABBA,Global,2021-11-05,0,0,0.10882433167820418
+Dynamite,"Sean Paul, Sia",Global,2021-10-22,0,0,0.10780190965449649
+Don't Shut Me Down,ABBA,Global,2021-11-05,0,0,0.10584444863234975
+If You Lie Down With Me,Lana Del Rey,Global,2021-10-22,0,0,0.10511113219158144
+Man On The Moon,"Alan Walker, Benjamin Ingrosso",Global,2021-11-26,0,0,0.10398307823118655
+Water Under the Bridge,Adele,Global,2021-10-15,0,0,0.10244926267026584
+Male Fantasy,Billie Eilish,Global,2021-07-30,0,0,0.10202701236833059
+Dark Side,Blind Channel,Global,2021-05-23,0,0,0.10198004653355094
+Memories,Maroon 5,Global,2021-06-11,0,0,0.09920786277218854
+Gangsta's Paradise,"Coolio, L.V.",Global,2021-08-30,0,0,0.09755359781478257
+Enemy - From the series Arcane League of Legends,Imagine Dragons,Global,2021-12-20,0,0,0.09706149706026726
+VVS,Ninho,Global,2021-12-03,0,0,0.09388576478411159
+I Still Have Faith In You,ABBA,Global,2021-11-05,0,0,0.08201511411322192
+I Don't Wanna Talk (I Just Wanna Dance),Glass Animals,Global,2021-09-10,0,0,0.07965199625468707
+Little Things,ABBA,Global,2021-11-05,0,0,0.07797163570774365
+Rock with you,SEVENTEEN,Global,2021-10-22,0,0,0.07764436310848191
+Not In The Mood (feat. Fivio Foreign & Kay Flock),Lil Tjay,Global,2021-10-22,0,0,0.07522072680479659
+Shot in the Dark,John Mayer,Global,2021-07-16,0,0,0.07374868918447196
+Love Runs Out (feat. G-Eazy & Sasha Alex Sloan),Martin Garrix,Global,2021-08-06,0,0,0.07281231766688069
+Chasing Stars (feat. James Bay),"Alesso, Marshmello",Global,2021-08-20,0,0,0.07215293748824356
+Last Train Home,John Mayer,Global,2021-07-16,0,0,0.07168544007454485
+Thunder,"Gabry Ponte, LUM!X, Prezioso",Global,2021-10-01,0,0,0.06685807417692487
+DiE4u,Bring Me The Horizon,Global,2021-09-17,0,0,0.06498959431054173
+Permission to Dance,BTS,Global,2021-12-16,0,0,0.057210823146277553
+Why You No Love Me,John Mayer,Global,2021-07-16,0,0,0.05560041169211117
+As the World Caves In,Sarah Cothran,Global,2021-06-28,0,0,0.05384464433831697
+Sweet Dreams,"Alan Walker, Imanbek",Global,2021-06-11,0,0,0.05366836759134098
+Angel Baby,Troye Sivan,Global,2021-09-10,0,0,0.053570640104727944
+Rumour Has It,Adele,Global,2021-10-15,0,0,0.05297112302844393
+Someday,OneRepublic,Global,2021-08-27,0,0,0.05239031595349819
+LO$ER=LO♡ER,TOMORROW X TOGETHER,Global,2021-08-17,0,0,0.05191584940228259
+As the World Caves In,Sarah Cothran,Global,2021-07-28,0,0,0.05166950079982394
+0X1=LOVESONG (I Know I Love You) feat. Seori,TOMORROW X TOGETHER,Global,2021-05-31,0,0,0.04843564443976902
+Anti-Romantic,TOMORROW X TOGETHER,Global,2021-05-31,0,0,0.04778321715709985
+Born in the U.S.A.,Bruce Springsteen,Global,2021-07-04,0,0,0.04606401002906427
+Remember,"Becky Hill, David Guetta",Global,2021-06-18,0,0,0.04348516627117739
+The Joker And The Queen,Ed Sheeran,Global,2021-10-29,0,0,0.04322037127226003
+Last Train Home,John Mayer,Global,2021-06-04,0,0,0.042415196202717324
+Gangsta's Paradise,"Coolio, L.V.",Global,2021-11-16,0,0,0.042157059918199694
+Superstition,Stevie Wonder,Global,2021-10-31,0,0,0.04176245478489995
+Better Days,Dermot Kennedy,Global,2021-07-30,0,0,0.04081434797598042
+Higher Power,Coldplay,Global,2021-10-15,0,0,0.0406701131779711
+Queendom,Red Velvet,Global,2021-08-16,0,0,0.040591640332688306
+Fortunate Son,Creedence Clearwater Revival,Global,2021-07-04,0,0,0.04055197565503718
+Thunderous,Stray Kids,Global,2021-08-23,0,0,0.03963238021108189
+Anti-Romantic,TOMORROW X TOGETHER,Global,2021-06-01,0,0,0.03713167259526268
+Sweet Caroline,Neil Diamond,Global,2021-07-11,0,0,0.03639903549181376
+justified,Kacey Musgraves,Global,2021-08-27,0,0,0.03484377623730859
+DOMINO,Stray Kids,Global,2021-08-23,0,0,0.027100217126675315
+If You Really Love Me (How Will I Know),"David Guetta, MistaJam, John Newman",Global,2021-07-02,0,0,0.025544785963466994
+Permission to Dance (Instrumental),BTS,Global,2021-07-09,0,0,0.01748339328643004
+Seven Nation Army,The White Stripes,Global,2021-07-11,0,0,0.01723068227460468
+INFERNO,"Sub Urban, Bella Poarch",Global,2021-08-19,0,0,0.016848419715996793
+"Paint It, Black",The Rolling Stones,Global,2021-08-25,0,0,0.016190588802602938
+Sweet but Psycho,Ava Max,Global,2021-10-31,0,0,0.013960542972377702
+Alcohol-Free,TWICE,Global,2021-06-09,0,0,0.013313305282886196
+Butter (Hotter Remix),BTS,Global,2021-06-03,0,0,0.012941126981905532
+Woman,Doja Cat,Global,2021-06-25,0,0,0.008798151270127522
+Summer,Calvin Harris,Global,2021-06-13,0,0,0.001412529550827423
